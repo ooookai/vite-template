@@ -1,0 +1,15 @@
+body {
+  --color-primary: #2ca79f;
+}
+
+.color-primary {
+  color: var(--color-primary);
+}
+
+.border-color-primary {
+  border-color: var(--color-primary);
+}
+
+.bg-color-primary {
+  background-color: var(--color-primary);
+}
